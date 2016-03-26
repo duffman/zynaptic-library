@@ -1,0 +1,2 @@
+# zynaptic-library
+TypeScript Library
